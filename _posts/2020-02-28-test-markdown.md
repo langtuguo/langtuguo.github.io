@@ -1,78 +1,28 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: 2022 年 2 月 14 日，晴
+subtitle: 是大笨狼忘记和可爱兔说情人节快乐的一天
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+2022 年 2 月 14 日，晴。
 
-**Here is some bold text**
+可爱兔发现今天是情人节。于是，可爱兔早早地起了床，认真地学习了好久好久，学会了好多好多东西。于是，可爱兔哒哒哒地跑过来，向大笨狼要奖励，想让大狼狼和自己过情人节！
 
-## Here is a secondary heading
+可是，大笨狼是一只笨笨的狼狼，没有发现这一点。大笨狼甚至怀疑可爱兔在摸鱼，用之前学习的内容来要亲亲，所以连亲亲都没有给几个！
 
-Here's a useless table:
+可爱兔于是低着头，噘着嘴，去一个兔吃了饭饭，希望大笨狼能反应过来。
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+可是，过了好久好久，可爱兔发现大笨狼自己跑去吃饭了，一点都没有关心她！
 
+可爱兔觉得好委屈好委屈，只能一只兔躲在房间里面哭哭，噘嘴嘴，缩在墙角，好可怜的！
 
-How about a yummy crepe?
+可是，大笨狼还在自己吃饭，吃了好久好久的饭饭，吃的好开心好开心。
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+可爱兔只能一边委屈屈，一边哒哒哒跑出来，跟大笨狼说：今天是情人节，要有仪式感！
 
-It can also be centered!
+可是，大笨狼居然说，因为礼物还没有到，所以要延迟过节！
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+可爱兔于是好委屈好委屈，超级超级委屈屈。大笨狼这才发现小兔兔委屈屈了，于是
 
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+## 就有了这篇博客！
