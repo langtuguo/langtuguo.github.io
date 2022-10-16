@@ -23,7 +23,7 @@ comments: true
 一周年的时候我在知乎上写了一篇《有一个清华大学的男朋友是种什么体验》的回答，关于戴老师究竟有多厉害不再赘述，今年我就来说说夸戴老师的心里话叭！
 
 ## 1 戴老师 感谢你在我有小情绪时的包容
-![img](../assets/img/IMG_5134.jpg)
+![img](../assets/img/IMG_5134.JPG)
 
 虽然我觉得我是一个性格很不错的人（x  
 但是在生活中遇到不如意的事情时，心情还是会很down  
@@ -64,7 +64,7 @@ comments: true
 
 ## 2 戴老师 感谢你把我宠成了无忧无虑的小公主
 
-![img](../assets/img/IMG_4172.jpg)
+![img](../assets/img/IMG_4172.JPG)
 
 我妈和我开玩笑说，戴老师把你宠得逆天了。
 
@@ -88,7 +88,7 @@ comments: true
 
 ## 3 戴老师 感谢你一直守护我内心对浪漫的渴望
 
-![img](../assets/img/IMG_4652.jpg)
+![img](../assets/img/IMG_4652.JPG)
 
 戴老师作为一名妥妥的理工男，  
 既完美诠释了有的时候直得可爱的属性，  
@@ -128,7 +128,7 @@ comments: true
 戴老师就不让我对他说谢谢了，有时我一说他还和我急。  
 但我真的经常被戴老师的小细节和小心思所感动。
 
-![img](../assets/img/IMG_5012.jpg)
+![img](../assets/img/IMG_5012.JPG)
 
 所以借着两周年的机会，  
 我想一起说：  
@@ -145,7 +145,7 @@ comments: true
 我都更加觉得  
 这可能就是我最向往的一种！
 
-![img](../assets/img/IMG_4267.jpg)
+![img](../assets/img/IMG_4267.JPG)
 
 ---
 
